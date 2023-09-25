@@ -1,0 +1,5 @@
+John - Salesman
+Kevin - Engineer
+Kate - Receptionist
+Jean - Human Resources
+Kelly - Customer Service

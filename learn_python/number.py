@@ -1,0 +1,20 @@
+print(2)
+print(2.99099)
+print(-111.222)
+print(3+4)
+print(3.1+3.2)
+print(10/3)
+print(10%3)
+my_num=-10
+# print(my_num + " is my favorite number")
+print(str(my_num) + " is my favorite number")
+print(abs(my_num))
+print(pow(2,3))
+print(max(4,6))
+print((min(4,6)))
+print(round(9.5))
+
+from math import  *
+print(floor(8.8))
+print(ceil(8.8))
+print(sqrt(25))
